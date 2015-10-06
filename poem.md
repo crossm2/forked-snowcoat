@@ -1,6 +1,6 @@
-Stopping By Woods On A Snowy Evening
+#Stopping By Woods On A Snowy Evening
 
-    By Robert Lee Frost
+    *By Robert Lee Frost*
 
 Whose woods these are I think I know.
 His house is in the village, though;
@@ -19,6 +19,6 @@ Of easy wind and downy flake.
 
 The woods are lovely, dark, and deep,
 But I have promises to keep,
-And miles to go before I sleep,
-And miles to go before I sleep.
-http://www.public-domain-poetry.com/robert-lee-frost/stopping-by-woods-on-a-snowy-evening-1231
+**And miles to go before I sleep,**
+**And miles to go before I sleep.**
+[Original Poem Source](http://www.public-domain-poetry.com/robert-lee-frost/stopping-by-woods-on-a-snowy-evening-1231)
